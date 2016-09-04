@@ -538,7 +538,7 @@ section {
 .team .avatar {
 	position: relative;
 	z-index: 2;
-	margin-top: -60px;
+	margin-top: -110px;
 	border-radius: 50%;
 }
 
@@ -1109,8 +1109,3 @@ footer .social-footer li:hover a {
 		padding-top: 0;
 	}
 }
-
-
-
-
-
